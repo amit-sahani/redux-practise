@@ -1,0 +1,10 @@
+.song-details{
+    margin-top: 35px;
+    border: 1px solid darkgray;
+    height: 170px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: darkgray;
+}
+
+/* style={{marginTop:'35px', border:'1px solid darkgray', height:'170px', padding:'20px', width:'max-content !important'}} */
